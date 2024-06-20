@@ -6,7 +6,8 @@
 <p>
   <img src='./Referencias/referencia-behance-app-perfil.jpg' height='25%'/>
 </p>
+
 ### Minha Versão
 <p>
-  (provisorio)
+  <img src='./Referencias/minha-versao.jpg' height='25%'/>
 </p>
